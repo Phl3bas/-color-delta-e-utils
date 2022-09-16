@@ -55,7 +55,7 @@
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
-    "color-delta-e": "^1.0.0"
+    "color-delta-e": "^1.0.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.26.3",
