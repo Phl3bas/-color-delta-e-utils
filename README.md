@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/@color-delta-e/utils?color=crimson&label=latest&logo=npm&style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@color-delta-e/utils?logo=npm&label=min&style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@color-delta-e/utils?logo=npm&label=min-zipped&style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Phl3bas/@color-delta-e/utils/CI?style=flat-square)
+![npm](https://img.shields.io/npm/v/@color-delta-e/utils?color=crimson&label=latest&logo=npm&style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/min/@color-delta-e/utils?logo=npm&label=min&style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@color-delta-e/utils?logo=npm&label=min-zipped&style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Phl3bas/color-delta-e-utils/CI?style=flat-square)
 
 
 # @color-delta-e/utils
